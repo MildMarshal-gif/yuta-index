@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  yuta-hub favicon — 落款風のモノグラム。
+  「ゆ」を中央に明朝で置き、右上に accent (#8b0000) の朱点を打つ。
+  paper / ink / accent のトリオで、サイト全体のカラーパレットと揃える。
+  16px でも視認可能なよう、グリフは大きめ + 円も控えめサイズ。
+-->
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 32 32"
+  width="32"
+  height="32"
+  role="img"
+  aria-label="ゆたの世界"
+>
+  <rect width="32" height="32" fill="#faf9f5" />
+  <text
+    x="14"
+    y="24"
+    text-anchor="middle"
+    font-family="'Hiragino Mincho ProN', 'Yu Mincho', 'YuMincho', 'MS Mincho', 'Noto Serif JP', serif"
+    font-size="24"
+    font-weight="400"
+    fill="#1a1a1a"
+  >ゆ</text>
+  <circle cx="26" cy="6" r="2.6" fill="#8b0000" />
+</svg>
