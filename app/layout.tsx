@@ -15,12 +15,12 @@ export const metadata: Metadata = {
     siteName: "ゆた｜links",
     title: "ゆた｜links — @yutayuta_8e",
     description: "ゆた（@yutayuta_8e）の作品とSNSをまとめた公式リンクページ。",
-    images: [{ url: "/og.png", width: 1727, height: 911, alt: "YUTA INDEX" }],
+    images: [{ url: "/og.png?v=8410ae2c", width: 1727, height: 911, alt: "YUTA INDEX" }],
   },
   twitter: {
     card: "summary_large_image",
     creator: "@yutayuta_8e",
-    images: ["/og.png"],
+    images: ["/og.png?v=8410ae2c"],
   },
 };
 

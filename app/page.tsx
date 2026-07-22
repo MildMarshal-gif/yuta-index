@@ -39,7 +39,7 @@ export default function Home() {
     name: "ゆた",
     alternateName: "yuta",
     url: "https://yuta-index.pages.dev",
-    image: "https://yuta-index.pages.dev/og.png",
+    image: "https://yuta-index.pages.dev/og.png?v=8410ae2c",
     sameAs: [
       "https://x.com/yutayuta_8e",
       "https://www.instagram.com/yutayuta_8e",
